@@ -21,13 +21,13 @@
 - **Operating Systems:** Windows, macOS, Linux
 
 
-## 📈 Projects
-- **Quiplash Enhanced:** An improved version of Quiplash using Azure cloud services to enhance functionality and scalability.
+## 📈 Future Projects
+- **CyberAware:** Currently working with my supervisor to publish "CyberAware" in an academic journal. We are planning to test the game with over 50 participants to evaluate its effectiveness in educating users on cybersecurity. [Try CyberAware here](https://ma1u20.itch.io/cyberaware).
+- **Quiplash:** An improved version of Quiplash using Azure cloud services to enhance functionality and scalability. 
 
+ 
 ## 📫 How to Reach Me
 - **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/marwan-altamimi-189258316/)
 - **Email:** MarwanAltamimi@outlook.com
 
-## ⚡ Fun Fact
-- I love exploring new technologies and applying them in creative ways!
 
