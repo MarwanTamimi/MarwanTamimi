@@ -1,4 +1,4 @@
-# Hi there, I'm Marwan Mousa ALtamimi! 👋
+# Hi there, I'm Marwan Mousa AL-Tamimi! 👋
 
 ## 👨‍💻 About Me
 - 🎓 I recently graduated with a degree in Computer Science from the University of Southampton.
@@ -13,9 +13,13 @@
 - **Project:** "CyberAware" - A cybersecurity awareness game developed as part of my final year project, aimed at educating users through engaging gameplay.
 
 ## 🛠 Skills
-- **Languages:** Java, C#, Python, Swift
-- **Frameworks/Tools:** Unity, JavaFX, Azure (Functions, Cosmos DB, Blob Storage, Web PubSub, Storage Queue)
+- **Languages:** Java, C#, Python, Swift, JavaScript
+- **Frameworks/Tools:**
+  - **Game Development:** Unity
+  - **Web Development:** Vue.js, Express.js, Node.js
+  - **Cloud Services:** Azure (Functions, Cosmos DB, Blob Storage, Web PubSub, Storage Queue)
 - **Operating Systems:** Windows, macOS, Linux
+
 
 ## 📈 Projects
 - **Quiplash Enhanced:** An improved version of Quiplash using Azure cloud services to enhance functionality and scalability.
