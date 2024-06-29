@@ -1,4 +1,4 @@
-# Hi there, I'm Marwan Mousa AL-Tamimi! 👋
+# Hi there, I'm Marwan Mousa Al-Tamimi! 👋
 
 ## 👨‍💻 About Me
 - 🎓 I recently graduated with a degree in Computer Science from the University of Southampton.
