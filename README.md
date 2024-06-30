@@ -9,7 +9,7 @@
 
 ## 🛡️ Cybersecurity
 - **Certification:** Jr Penetration Tester - TryHackMe
-- **Skills:** Proficient in Burp Suite, Nmap; knowledgeable in web hacking and privilege escalation techniques.
+- **Skills:** Proficient in Burp Suite, Nmap; knowledgeable in web hacking.
 - **Project:** "CyberAware" - A cybersecurity awareness game developed as part of my final year project, aimed at educating users through engaging gameplay.
 
 ## 🛠 Skills
